@@ -207,7 +207,7 @@ fieldset[disabled] .btn-xl.active {
     border: none;
   }
   .navbar-custom .navbar-brand {
-    font-size: 2em;
+    font-size: 2.5em;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     transition: all 0.3s;
@@ -860,4 +860,28 @@ body {
 #advertise
 {
   background-image: url(../img/advertise.jpg);
+}
+
+.con-sec
+{
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  text-align: left;
+  padding: 30px;
+  font-size: 16px;
+  line-height: 2;
+  background-color: rgba(255, 255, 255, 0.7);
+  border-radius: 6px;
+}
+
+#whi
+{
+  color: #fff;
+}
+
+.yolo
+{
+  line-height: 2;
+  text-align: justify;
 }
